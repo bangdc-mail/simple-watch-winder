@@ -1,4 +1,4 @@
-//Watch winder with Arduino
+// Simple Watch winder with Arduino
 
 #include <Stepper.h>
 
