@@ -32,12 +32,21 @@ This project is a DIY Watch Winder built using an Arduino, designed to keep your
 
 ![Arduino Nano Schematic](https://placeholder.com/468x300?text=App+Screenshot+Here)
 
-
+Rough sketch:
+![drawing](https://github.com/user-attachments/assets/e09c9399-2688-4e90-b282-d1290edcaee4)
 
 
 ## Screenshots
+The following is a POC using simple cardboards. 
 
-![App Screenshot](https://placeholder.com/468x300?text=App+Screenshot+Here)
+![A prototype no. 0 using cardboards](https://github.com/user-attachments/assets/f13b0455-c479-44ba-ad87-b7cd720c6c08)
+![Simple wiring for prototype](https://github.com/user-attachments/assets/be10668c-e425-44e5-8a0f-f86d5ba12d2d)
+![With a watch attached](https://github.com/user-attachments/assets/87134881-b25c-4c86-b092-fdf69ccdb6b8)
+
+After making, few things that can be noted:
+- the base would require weight for stability
+- The base of the motor should be heavily secure to avoid wobling
+- The motor shaft is under big tension and would require counter weight for long use. Recommend to use lighter 
 
 
 ## Demo
