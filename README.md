@@ -39,9 +39,12 @@ Rough sketch:
 ## Screenshots
 The following is a POC using simple cardboards. 
 
-![A prototype no. 0 using cardboards](https://github.com/user-attachments/assets/f13b0455-c479-44ba-ad87-b7cd720c6c08)
-![Simple wiring for prototype](https://github.com/user-attachments/assets/be10668c-e425-44e5-8a0f-f86d5ba12d2d)
-![With a watch attached](https://github.com/user-attachments/assets/87134881-b25c-4c86-b092-fdf69ccdb6b8)
+* A prototype no. 0 using cardboards
+<img src="https://github.com/user-attachments/assets/f13b0455-c479-44ba-ad87-b7cd720c6c08" style="max-width: 100%;"/>
+* Simple wiring for prototype
+<img src="https://github.com/user-attachments/assets/be10668c-e425-44e5-8a0f-f86d5ba12d2d" style="max-width: 100%;"/>
+* With a watch attached
+<img src="https://github.com/user-attachments/assets/87134881-b25c-4c86-b092-fdf69ccdb6b8" style="max-width: 100%;"/>
 
 After making, few things that can be noted:
 - the base would require weight for stability
